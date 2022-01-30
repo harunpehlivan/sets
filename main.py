@@ -1,11 +1,6 @@
 # Create an empty set
-s = set()
+s = {1, 3, 5}
 
-# Add elements to set
-s.add(1)
-s.add(3)
-s.add(5)
-s.add(3)
 print(s)
 
 # Remove elemnt from set
